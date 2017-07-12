@@ -1,0 +1,21 @@
+﻿citizenship;állampolgárság
+etnic origin;etnikai hovatartozás
+first name;keresztnév
+gender;biológiai nem
+surname;vezetéknév
+male;férfi
+female;nő
+material status;családi állapot
+single;egyedülálló
+married;házas
+separated;külön élő
+divorced;elvált
+widowed;özvegy
+nationality;nemzetiség
+next of kin;legközelebbi rokon
+nickname;becenév
+permanent address;állandó lakcím
+temporary address;ideiglenes lakcím
+place of residence;lakóhely
+pseudonym;álnév
+spouse;házastárs
